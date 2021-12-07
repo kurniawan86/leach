@@ -59,6 +59,7 @@ while operating_nodes>0
                     end
             end
         end
+  
         
 	% Fixing the size of "CL" array %
 	CL=CL(1:CLheads);
